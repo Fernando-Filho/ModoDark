@@ -64,7 +64,7 @@ header a{
     width: 60%;
 }
 #menu #navegation a{
-    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
 
 
@@ -83,7 +83,7 @@ header a{
 #dados{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: star;
     justify-content: center;
     width: 50%;
 }
